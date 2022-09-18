@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<!-- 生日快乐！！！！！！！！！！ -->
+<head>
+<meta charset="utf-8"> 
+<title>神秘来信</title> 
+<style>
+    body {
+        background-color:#ffedd1;
+    }
+    h1 {
+        color:rgb(0, 0, 0);
+        text-align:center;
+        text-shadow: 5px 5px 5px #666666;
+    }
+    h4 {
+        color:rgb(0, 0, 0);
+        text-align:center;
+        text-shadow: 5px 5px 5px #666666;
+    }
+    h6 {
+        color:#ffedd1;
+    }
+    #ascsss
+    {
+        font-family: myFirstFont;
+        src: url(sansation_bold.woff);
+        font-weight:bold;
+        border-radius: 1000px;
+        background: #ff0000;
+        padding: 20px;
+        color: white;
+        cursor: pointer;
+        width: 100px;
+        height: 100px;
+        box-shadow: 10px 10px 5px #666666;
+    }
+    </style>
+</head>
+<body>
+<h1>一封神秘来信</h1>
+<h4>会是什么呢？？</h4>
+<h6 style="background-color:#ffedd1;">|</h6>
+    <form action="https://static.box3.codemao.cn/block/QmbZLV8appvLQcvNXVHTgnyU26L2rhx3Qw7zcqFyPy6KvG_cover_0_0.png">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="拆开" id = "ascsss">
+    </form>
+</body>
+</html>
